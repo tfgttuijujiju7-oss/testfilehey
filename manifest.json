@@ -1,0 +1,14 @@
+{
+    "name": "FakeMessageComposer",
+    "description": "Local-only fake message renderer with persistent settings UI.",
+    "version": "1.0.0",
+    "author": "tfqttujiujju7-oss",
+    "id": "tfqttujiujju7-oss.fake-message-composer",
+    "entry": "MessageUtilities.js",
+    "targets": [
+        "android",
+        "desktop"
+    ],
+    "permissions": [],
+    "license": "MIT"
+}
