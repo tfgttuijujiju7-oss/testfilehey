@@ -1,0 +1,14 @@
+{
+    "id": "tfgttuijujiju7-oss.fake-message-composer",
+    "name": "FakeMessageComposer",
+    "description": "Local-only fake message renderer with persistent settings UI.",
+    "version": "1.0.0",
+    "authors": [
+    {
+        "name": "tfgttuijujiju7-oss",
+        "id": "0"
+    }
+    ],
+    "main": "MessageUtilities.js",
+    "license": "MIT"
+}
